@@ -1,5 +1,13 @@
 ### Saudações, me chamo Aurélio Amado 👋
 
+Meu Linkedin:<br>
+
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurelio-amado-099213156/)
+<br><br>
+
+Tecnologias que utilizo
+
+
 
 
 
@@ -15,12 +23,11 @@
 
 
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurelio-amado-099213156/)
 
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurelioamado&hide_progress=true)
+
 
 
 
